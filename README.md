@@ -3,6 +3,8 @@
 ## Introduction
 This project explores data analysis and time series forecasting to understand average vehicle speed on a roadway, crucial for traffic management and congestion reduction.
 
+[Documentation Details](https://github.com/Theofilusarifin/Time-Series-Forecasting-of-Vehicle-Speed-on-Roadway/blob/main/Documentation.pdf)
+
 ## Data Preprocessing
 - Extracted data from CSV files containing features like local time, road ID, start and end point IDs, and average speed.
 - Handled null and duplicate values, ensuring data integrity.
